@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TCR3EM20A,RF")(type "KiCad")(uri "${KIPRJMOD}/Symbols/TCR3EM20A,RF.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS61046")(type "KiCad")(uri "${KIPRJMOD}/Symbols/TPS61046.kicad_sym")(options "")(descr ""))
+)
